@@ -1,42 +1,62 @@
 ![logo](https://github.com/Tosiqul-Islam-Sopon/Tosiqul-Islam-Sopon/blob/main/my%20banner.png)
-<h1 align="center">Hi 👋, I'm Md. Tosiqul Islam</h1>
-<h3 align="center">Competitive Programmer & Full-Stack Web Developer(MERN) From Bangladesh</h3>
+# Hi 👋, I'm Md. Tosiqul Islam
 
-<p align="center">FullStack Developer | MERN Specialist | Ready to embark on the next challenge! Explore my GitHub for a showcase of innovation and creativity. Let's connect and discuss how I can contribute to your company's growth through impactful responsibilities.</br> 💻🌱 #FullStack #MERNStack #HireMeNow</p>
+### Data Engineer | Software Engineer | Competitive Programmer
 
-<p align="left"> 
-  <a href="https://leetcode.com/Tosiqul_Islam/">
-    <img src="https://cp-logo.vercel.app/leetcode/Tosiqul_Islam" alt="Leet code rating" />
-  </a>
-  <a href="https://codeforces.com/profile/Tosiqul_Islam">
-    <img src="https://img.shields.io/badge/codeforces-1437-yellow" alt="CF rating" />
-  </a>
-  <a href="https://www.codechef.com/users/tosiqul_islam">
-    <img src="https://img.shields.io/badge/CodeChef-1615-yellow" alt="CC rating" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=tosiqul-islam-sopon&label=Profile%20views&color=0e75b6&style=flat" alt="tosiqul-islam-sopon" /> </p>
+I'm a Data Engineer at **Banglalink**, working on Data Warehouse System (DWS) migration, with a background in full-stack software development and competitive programming.
 
-- 🌱 I’m currently learning **NextJs**
+I enjoy solving complex problems, building scalable applications, working with databases, and exploring data engineering technologies.
 
-- 💬 Ask me about **Html, CSS, Tailwind, JavaScript, React, Node Js, MongoDB, Express js**
+### 💼 Professional Experience
 
-- 📫 How to reach me **sopon.tosiq@gmail.com**
+- **Data Engineer — Banglalink** (November 2026 – Present)
+  - Contributing to DWS migration and data engineering workflows.
+  - Working with SQL, data processing, and migration tasks.
 
-- 📄 Know about my experiences [resume](https://drive.google.com/file/d/18b3txKfpG9jE6ALuox2bv2ID8L0BmKfL/view?usp=sharing)
+- **Junior Software Engineer — TechOptions** (August 2025 – October 2026)
+  - Developed and maintained enterprise LMS platforms.
+  - Improved application performance using TanStack Query and caching strategies.
+  - Developed backend APIs using FastAPI and PostgreSQL.
+  - Worked with observability tools including OpenTelemetry, Prometheus, Grafana, and Jaeger.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/md-tosiqul-islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-tosiqul-islam" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/tosiqul_islam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tosiqul_islam" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/tosiqul_islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="tosiqul_islam" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/tosiqul_islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tosiqul_islam" height="30" width="40" /></a>
-</p>
+- **Frontend Developer — Jeda.ai** (October 2024 – July 2025)
+  - Developed interactive AI workspace features.
+  - Worked with React, Redux, and Fabric.js.
+  - Improved canvas performance and editing workflows.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+### 🛠️ Technical Skills
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tosiqul-islam-sopon&show_icons=true&locale=en&layout=compact" alt="tosiqul-islam-sopon" /></p>
+- **Languages:** JavaScript, TypeScript, Python, C, C++, Java, SQL
+- **Frontend:** React.js, Next.js, Tailwind CSS, Redux, TanStack Query, Shadcn UI
+- **Backend:** Node.js, Express.js, FastAPI
+- **Databases:** PostgreSQL, MongoDB
+- **Data Engineering:** SQL, Data Warehousing, Data Migration
+- **Cloud & DevOps:** Docker, AWS Basics, GitHub Actions, CI/CD
+- **Observability:** OpenTelemetry, Prometheus, Grafana, Jaeger
+- **Tools:** Git, GitHub, VS Code, WebStorm
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tosiqul-islam-sopon&show_icons=true&locale=en" alt="tosiqul-islam-sopon" /></p>
+### 🚀 Featured Projects
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tosiqul-islam-sopon&" alt="tosiqul-islam-sopon" /></p>
+**FocusTube**
+- YouTube utility browser extension with 280+ organic installs.
+- Built using React.js, Vite, Tailwind CSS, and Chrome Extension APIs.
+
+**Next Career**
+- Job platform connecting candidates and recruiters.
+- Includes job applications, application tracking, recruitment workflows, and interview scheduling.
+- Built using React.js, Node.js, Express.js, MongoDB, Firebase, and WebSocket.
+
+### 🏆 Competitive Programming
+
+- Solved **1,000+ DSA problems** across Codeforces, CodeChef, and LeetCode.
+- Participated in **200+ online programming contests**.
+
+**Profiles:**
+- [Codeforces](https://codeforces.com/profile/Tosiqul_Islam)
+- [LeetCode](https://leetcode.com/u/Tosiqul_Islam/)
+
+### 📫 Connect With Me
+
+- **Email:** sopon.tosiq@gmail.com
+- **LinkedIn:** [Md. Tosiqul Islam](https://www.linkedin.com/in/md-tosiqul-islam)
+- **GitHub:** [Tosiqul-Islam-Sopon](https://github.com/Tosiqul-Islam-Sopon)
